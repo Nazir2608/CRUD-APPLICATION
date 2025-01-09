@@ -1,3 +1,35 @@
+
+# CRUD-APPLICATION
+A full-stack CRUD application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js).
+
+## Features
+- Perform Create, Read, Update, and Delete (CRUD) operations.
+- Responsive design for both desktop and mobile devices.
+- Backend built with Express.js and MongoDB for data storage.
+- Frontend built with React.js for an interactive user interface.
+
+## Technologies Used
+- **Frontend**: React.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Others**: Axios, dotenv, CORS, body-parser
+
+---
+
+## Installation and Setup
+
+### Prerequisites
+- Install [Node.js](https://nodejs.org/) and npm (comes with Node.js).
+- Install [MongoDB](https://www.mongodb.com/try/download/community) locally or set up a cloud MongoDB cluster using [MongoDB Atlas](https://www.mongodb.com/atlas/database).
+
+---
+
+### Steps to Clone and Set Up Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Nazir2608/CRUD-APPLICATION.git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
